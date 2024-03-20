@@ -1,0 +1,33 @@
+name: siage_escolar
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+
+  fonts:
+    - family: SourceSans3Regular
+      fonts:
+        - asset: assets/fonts/source_sans_3/static/SourceSans3-Regular.ttf
+    - family: SourceSans3Bold
+      fonts:
+        - asset: assets/fonts/source_sans_3/static/SourceSans3-Bold.ttf

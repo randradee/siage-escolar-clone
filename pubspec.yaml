@@ -28,6 +28,3 @@ flutter:
     - family: SourceSans3Regular
       fonts:
         - asset: assets/fonts/source_sans_3/static/SourceSans3-Regular.ttf
-    - family: SourceSans3Bold
-      fonts:
-        - asset: assets/fonts/source_sans_3/static/SourceSans3-Bold.ttf
